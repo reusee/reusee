@@ -12,9 +12,10 @@
 
 * [reusee/domui](https://github.com/reusee/domui) Web UI framework for Go targeting WebAssembly
 
-#### Data access
+#### Data processing
 
 * [reusee/sb](https://github.com/reusee/sb) Stream-styled data toolbox
+* [reusee/june](https://github.com/reusee/june) Immutable data storage framework
 
 #### Go utils
 
