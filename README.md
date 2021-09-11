@@ -14,13 +14,15 @@
 
 #### Data access
 
-* [reusee/sb](https://github.com/reusee/sb) Stream-styled data toolbox
+* [reusee/sb](https://github.com/reusee/sb) Data serialization toolbox
+* [reusee/june](https://github.com/reusee/june) Database framework
 
 #### Go utils
 
 * [reusee/e4](https://github.com/reusee/e4) Error handling package
-* [reusee/dscope](https://github.com/reusee/dscope) Dynamic dependency injection and reactive updating package
-* [reusee/pp](https://github.com/reusee/pp) Continuation-passing-styled pipeline utils
+* [reusee/dscope](https://github.com/reusee/dscope) Dynamic reactive dependency injection framework
+* [reusee/pp](https://github.com/reusee/pp) Generic functional pipeline framework
+* [reusee/pr](https://github.com/reusee/pr) Parallel utils
 
 ### Products
 
