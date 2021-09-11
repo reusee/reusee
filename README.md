@@ -4,6 +4,11 @@
 
 * [reusee/l2](https://github.com/reusee/l2) Layer-2 bridging over TCP / UDP / ICMP
 
+#### Data processing
+
+* [reusee/sb](https://github.com/reusee/sb) Data serialization toolbox
+* [reusee/june](https://github.com/reusee/june) Data storage framework
+
 #### Productivity
 
 * [reusee/li](https://github.com/reusee/li) Li text editor
@@ -11,11 +16,6 @@
 #### User interface
 
 * [reusee/domui](https://github.com/reusee/domui) Web UI framework for Go targeting WebAssembly
-
-#### Data access
-
-* [reusee/sb](https://github.com/reusee/sb) Data serialization toolbox
-* [reusee/june](https://github.com/reusee/june) Database framework
 
 #### Go utils
 
