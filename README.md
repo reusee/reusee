@@ -23,6 +23,7 @@
 * [reusee/dscope](https://github.com/reusee/dscope) Dynamic reactive dependency injection framework
 * [reusee/pp](https://github.com/reusee/pp) Generic functional pipeline framework
 * [reusee/pr](https://github.com/reusee/pr) Parallel utils
+* [reusee/pa](https://github.com/reusee/pa) Code quality assurance framework
 
 ### Products
 
