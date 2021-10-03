@@ -27,4 +27,4 @@
 
 ### Products
 
-* [Time Store](https://www.microsoft.com/store/apps/9NDTWST8JTNL) File snapshot / backup application for Windows
+* [Time Store](https://www.microsoft.com/store/apps/9NDTWST8JTNL) Git-like versioned file snapshot / backup tool
