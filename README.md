@@ -6,7 +6,7 @@
 
 #### Data processing
 
-* [reusee/sb](https://github.com/reusee/sb) Data serialization toolbox
+* [reusee/sb](https://github.com/reusee/sb) Data streaming / serialization toolbox
 * [reusee/june](https://github.com/reusee/june) Data storage framework
 
 #### Productivity
