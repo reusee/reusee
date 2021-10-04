@@ -3,6 +3,7 @@
 #### Networking
 
 * [reusee/l2](https://github.com/reusee/l2) Layer-2 bridging over TCP / UDP / ICMP
+* [reusee/atproxy](https://github.com/reusee/atproxy) Socks proxy with auto optimal upstream selection
 
 #### Data processing
 
