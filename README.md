@@ -23,7 +23,7 @@
 
 * [reusee/e4](https://github.com/reusee/e4) Error handling package
 * [reusee/dscope](https://github.com/reusee/dscope) Dynamic reactive dependency injection framework
-* [reusee/pp](https://github.com/reusee/pp) Generic functional pipeline framework
+* [reusee/pp](https://github.com/reusee/pp) Generic functional iterator framework
 * [reusee/pp2](https://github.com/reusee/pp2) Version 2 of pp, utilizing Go generics
 * [reusee/pr](https://github.com/reusee/pr) Parallel utils
 * [reusee/qa](https://github.com/reusee/qa) Code quality assurance framework
