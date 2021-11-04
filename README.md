@@ -10,7 +10,7 @@
 * [reusee/fs9](https://github.com/reusee/fs9) Multi-layer virtual file system
 * [reusee/sb](https://github.com/reusee/sb) Data streaming / serialization toolbox
 * [reusee/june](https://github.com/reusee/june) Data storage framework
-* [reusee/it](http://github.com/reusee/it) generic immutable tree structure
+* [reusee/it](http://github.com/reusee/it) generic persistent tree structure
 
 #### Go related
 
