@@ -14,6 +14,7 @@
 
 #### Go related
 
+* [reusee/cr](https://github.com/reusee/cr) Go code reading helper
 * [reusee/e4](https://github.com/reusee/e4) Error handling package
 * [reusee/dscope](https://github.com/reusee/dscope) Dynamic reactive dependency injection framework
 * [reusee/pp](https://github.com/reusee/pp) Generic functional iterator framework
