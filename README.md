@@ -21,6 +21,7 @@
 * [reusee/pp2](https://github.com/reusee/pp2) Version 2 of pp, utilizing Go generics
 * [reusee/pr](https://github.com/reusee/pr) Parallel utils
 * [reusee/qa](https://github.com/reusee/qa) Code quality assurance framework
+* [reusee/lp](https://github.com/reusee/lp) Lightweight Parallelism
 
 #### Language
 
